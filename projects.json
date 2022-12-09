@@ -24,6 +24,11 @@
         "https://www.wikihouse.com/taiko/index.php?cmd=read&page=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FGloria&word=gloria",
       "songName": "星河一天",
       "id": "2"
+    },
+    {
+      "wikihouseLink": "https://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A4%BD%A4%C4%A4%AA%A4%E1%A4%B7%A4%AD%A1%A6%A4%D5%A4%EB",
+      "songName": "そつおめしき・ふる",
+      "id": "3"
     }
   ]
 }
